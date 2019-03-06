@@ -1,0 +1,38 @@
+body {
+    background-color: blue;
+}
+
+.coloredFrame {
+    width: 15em;
+    /* height: 90em; */
+    background-color: black;
+    margin: auto auto;
+}
+
+.topFrame {
+    height: 10px;
+}
+
+.container {
+    color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+    /* width: 80%; */
+    /* height: 80%; */
+    /* margin: auto auto auto auto; */
+    margin-left: 10px;
+    margin-right: 10px;
+    background: orange;
+    /* padding: 10px; */
+    text-align: center;
+
+}
+
+.list {
+    text-align: left;
+}
+
+.done {
+    text-decoration: line-through;
+}
+

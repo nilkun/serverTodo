@@ -1,0 +1,7 @@
+body {
+    color: orange;
+}
+
+.done {
+    text-decoration: line-through;
+}
